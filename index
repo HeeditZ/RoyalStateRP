@@ -1,1 +1,30 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RP Server - Home</title>
+  <link rel="stylesheet" href="assets/style.css" />
+  <script src="js/main.js" defer></script>
+</head>
+<body>
+  <header class="header">
+    <img src="assets/logo.png" alt="Server Logo" class="logo" />
+    <nav>
+      <a href="index.html" class="nav-link">Home</a>
+      <a href="rules.html" class="nav-link">Rules</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1 class="fade-in">Welcome to Our RP Server</h1>
+    <p class="fade-in delay">Immerse yourself in realistic roleplay, both in-game and in our Discord community.</p>
+    <a href="https://discord.gg/FtGy8VyWww" target="_blank" class="discord-btn">Join Our Discord</a>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 RP Server. All rights reserved.</p>
+  </footer>
+</body>
+</html>
